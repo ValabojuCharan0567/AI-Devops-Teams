@@ -1,0 +1,18 @@
+[project]
+name = "ai-devops-teams"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic-settings",
+    "langgraph",
+    "PyGithub",
+    "kubernetes",
+    "boto3",
+    "requests",
+    "slack-sdk",
+    "psycopg2-binary"
+]

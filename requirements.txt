@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic-settings
+langgraph
+PyGithub
+kubernetes
+boto3
+requests
+slack-sdk
+psycopg2-binary
+openai
